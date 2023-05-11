@@ -28,7 +28,7 @@
   },
   "repositories": [
         {
-          "type": "git",
+          "type": "vcs",
           "url": "https://github.com/mzrikaz/guzzle-jsonrpc.git"
         }
    ],
