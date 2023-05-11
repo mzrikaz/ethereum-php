@@ -26,6 +26,12 @@
       "Ethereum\\": "src/"
     }
   },
+  "repositories": [
+        {
+          "type": "git",
+          "url": "https://github.com/mzrikaz/guzzle-jsonrpc.git"
+        }
+    ]
   "license": "MIT",
   "authors": [
     {
